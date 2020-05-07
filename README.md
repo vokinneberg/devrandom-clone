@@ -13,7 +13,6 @@ Package structure:
 * `Makefile` - make utility configuration
 * `README.md` - this file
 
-
 ## Configuration
 
 Application configured with constant hardcoded values. It is easy to extend to environment variables though.
